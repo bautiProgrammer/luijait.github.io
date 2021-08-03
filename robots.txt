@@ -1,2 +1,8 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+Disallow: /aquinoentras/*
+Disallow: /Novaisadefacearnada/*
+Disallow: /SourceStravakesunarata/*
+Disallow: /reverseshell/*
+Disallow: /miip/*
+Disallow: /shell/*
